@@ -1,77 +1,172 @@
-# 👋 Hi, I'm Sara!
+<!-- ANIMATED HEADER -->
 
-### 🤖 AI Engineering Student | 💻 Developer | 🧠 AI & Data Science
+<div align="center">
 
-I'm an **Artificial Intelligence Engineering student** interested in building practical projects with AI, machine learning, data, and software development.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00C9FF,100:00F5A0&height=220&section=header&text=SARA%20OUSSOUSSOU&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
----
+### 🤖 AI ENGINEERING STUDENT • DEVELOPER • DATA ENTHUSIAST
 
-### 🚀 What I'm Working On
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineering;Machine+Learning+%7C+Data+Science;Python+%7C+Java+%7C+C%2B%2B;Building+Ideas+Into+Code+%F0%9F%9A%80" />
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Science & Data Analysis
-* 🐍 Python Development
-* ☕ Java & C++
-* 🧠 Building AI-powered applications
+<br>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-22407756-181717?style=for-the-badge\&logo=github)](https://github.com/22407756)
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-### 📌 Featured Projects
+## 🧠 About Me
 
-🤖 **AI Document Assistant**
-AI-powered chatbot that answers questions from your documents.
+```python
+class Sara:
 
-🎭 **Emotion Detection App**
-A Python project focused on emotion detection.
+    role = "AI Engineering Student"
+    focus = ["Artificial Intelligence", "Machine Learning", "Data Science"]
+    
+    languages = [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript"
+    ]
 
-🎙️ **Podcast Scheduler**
-Java application for scheduling and managing podcasts.
+    currently_learning = [
+        "Machine Learning",
+        "Data Analysis",
+        "Algorithms",
+        "AI Applications"
+    ]
 
-🎓 **Student Management System**
-C++ console-based student management system.
-
----
-
-### 📈 GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=22407756&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=22407756&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-💼 [LinkedIn](https://www.linkedin.com/in/sara-oussoussou/)
+    mindset = "Learn • Build • Improve 🚀"
+```
 
 ---
 
-### 💡 Keep learning. Keep building. Keep improving.
+## ⚡ Tech Stack
 
+<div align="center">
 
-<!--
-**22407756/22407756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI • Data • Development
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Document Assistant
+
+AI-powered document assistant designed to interact with documents and provide intelligent responses.
+
+**Python • AI • NLP**
+
+</td>
+
+<td width="50%">
+
+### 🎭 Emotion Detection App
+
+Python application focused on detecting and working with emotions.
+
+**Python • AI**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎙️ Podcast Scheduler
+
+Java application for scheduling and managing podcast episodes.
+
+**Java • JavaFX**
+
+</td>
+
+<td width="50%">
+
+### 🎓 Student Management System
+
+C++ project for managing student information and operations.
+
+**C++**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=22407756&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0&text_color=FFFFFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22407756&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=22407756&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00F5A0&currStreakLabel=00C9FF" />
+
+</div>
+
+---
+
+## 🎯 Currently
+
+```text
+🤖 Artificial Intelligence
+      ↓
+🧠 Machine Learning
+      ↓
+📊 Data Science
+      ↓
+💻 Software Development
+      ↓
+🚀 Building real-world projects
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/22407756">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C9FF,100:6A5ACD&height=120&section=footer&animation=twinkling"/>
+
+</div>
