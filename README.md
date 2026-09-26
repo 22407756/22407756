@@ -111,15 +111,24 @@ C++ project for managing student information and operations.
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=22407756&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=22407756&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22407756&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22407756&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=22407756&theme=tokyonight&hide_border=true&cache_seconds=86400" width="70%" />
+
+</div>
+
 
 ## 🔥 Contribution Streak
 
