@@ -111,8 +111,6 @@ C++ project for managing student information and operations.
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=22407756&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
