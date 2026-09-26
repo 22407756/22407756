@@ -109,18 +109,6 @@ C++ project for managing student information and operations.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=22407756&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0&text_color=FFFFFF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22407756&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
