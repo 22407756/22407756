@@ -16,9 +16,9 @@
 
 <img src="divider.svg" width="100%"/>
 
-## 🧠 About Me
+<img src="title-about.svg" alt="About Me"/>
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+<img align="right" width="260" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
 
 - 👩‍💻 **Name:** Sara Oussoussou
 - 🎓 **Role:** AI Engineering Student
@@ -26,19 +26,24 @@
 - 🔭 **Building:** AI Trading Journal and AI Document Assistant
 - 🌱 **Learning:** Data Analysis, Algorithms, AI Applications
 - 🚀 **Goal:** Build real-world AI products
-- 📫 **Contact:** saraoussoussou66@gmail.com
 
 <br clear="right"/>
 
 <div align="center">
+<img src="currently.svg" alt="Currently working on" width="100%"/>
+<br><br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <img src="divider.svg" width="100%"/>
 
-## ⚡ Tech Stack
+<img src="title-stack.svg" alt="Tech Stack"/>
 
 <div align="center">
+
+<img src="skills.svg" alt="Skills" width="100%"/>
+
+<br><br>
 
 <a href="https://github.com/22407756?tab=repositories">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react&theme=dark" />
@@ -52,7 +57,7 @@
 
 <img src="divider.svg" width="100%"/>
 
-## 🚀 Featured Projects
+<img src="title-projects.svg" alt="Featured Projects"/>
 
 <div align="center">
 
@@ -75,7 +80,7 @@
 
 <img src="divider.svg" width="100%"/>
 
-## 🎯 Roadmap
+<img src="title-roadmap.svg" alt="Roadmap"/>
 
 <div align="center">
 
@@ -89,7 +94,7 @@
 
 <img src="divider.svg" width="100%"/>
 
-## 📊 GitHub Stats
+<img src="title-stats.svg" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -104,7 +109,7 @@
 
 <img src="divider.svg" width="100%"/>
 
-## 🐍 Contribution Snake
+<img src="title-snake.svg" alt="Contribution Snake"/>
 
 <div align="center">
 
@@ -118,13 +123,13 @@
 
 <img src="divider.svg" width="100%"/>
 
-## 🌐 Connect With Me
+<img src="title-connect.svg" alt="Connect With Me"/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sara-oussoussou"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:saraoussoussou66@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-FF00C8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/22407756"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sara-oussoussou"><img src="contact-linkedin.svg" width="32%" alt="LinkedIn"/></a>
+<a href="mailto:saraoussoussou66@gmail.com"><img src="contact-email.svg" width="32%" alt="Email"/></a>
+<a href="https://github.com/22407756"><img src="contact-github.svg" width="32%" alt="GitHub"/></a>
 
 <br><br>
 
