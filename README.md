@@ -1,47 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,50:00C9FF,100:00F5A0&height=280&section=header&text=SARA%20OUSSOUSSOU&fontSize=58&fontColor=ffffff&fontAlignY=38&stroke=ffffff&strokeWidth=2&animation=fadeIn&desc=AI%20Engineering%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Data%20Enthusiast&descSize=20&descAlignY=60" width="100%"/>
+<img src="header.svg" width="100%" alt="Sara Oussoussou - AI Engineering Student"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=750&height=50&lines=Hello+World%2C+I'm+Sara+%F0%9F%91%8B;Turning+data+into+intelligence+%F0%9F%A7%A0;Machine+Learning+%7C+Computer+Vision+%7C+NLP;Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+TypeScript;Building+ideas+into+code+%F0%9F%9A%80" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=%3E+initializing+sara.exe...;%3E+Turning+data+into+intelligence+%F0%9F%A7%A0;%3E+Machine+Learning+%7C+Computer+Vision+%7C+NLP;%3E+Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+TypeScript;%3E+Building+the+future+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=0D0221&color=00F0FF"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=FF00C8&color=FF00C8"/>
+<img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FCEE0A&color=FCEE0A"/>
+<img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=00F0FF&color=00F0FF"/>
+<img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=FF00C8&color=FF00C8"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=FCEE0A&color=FCEE0A"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=22407756&label=Profile%20Views&color=00C9FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/22407756?style=for-the-badge&logo=github&color=6A5ACD"/>
+<img src="https://komarev.com/ghpvc/?username=22407756&label=PROFILE%20VIEWS&color=FF00C8&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/22407756?style=for-the-badge&logo=github&color=00F0FF&labelColor=0D0221"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="divider.svg" width="100%"/>
 
-## 🧠 About Me
+## 🧠 `> whoami`
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
 
-- 🎓 AI Engineering student
-- 🔭 Currently building: **AI Trading Journal** and **AI Document Assistant**
-- 🌱 Learning: Machine Learning, Data Analysis, Algorithms
-- 🎯 Goal: build real-world AI applications
-- ⚡ Fun fact: I turn coffee and curiosity into code ☕
-- 📫 Reach me: saraoussoussou66@gmail.com
+```yaml
+name:     Sara Oussoussou
+role:     AI Engineering Student
+focus:    [Machine Learning, Computer Vision, NLP]
+building: [AI Trading Journal, AI Document Assistant]
+learning: [Data Analysis, Algorithms, AI Applications]
+goal:     Build real-world AI products
+contact:  saraoussoussou66@gmail.com
+status:   ONLINE ⚡
+```
 
 <br clear="right"/>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="divider.svg" width="100%"/>
 
-## ⚡ Tech Stack
+## ⚡ `> load tech_stack`
 
 <div align="center">
 
@@ -50,24 +54,24 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="divider.svg" width="100%"/>
 
-## 🚀 Featured Projects
+## 🚀 `> ls featured_projects/`
 
 <div align="center">
 
 <a href="https://github.com/22407756/ai-trading-journal-APP">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=ai-trading-journal-APP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=ai-trading-journal-APP&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00C8&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/22407756/AI-Document-Assistant">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=AI-Document-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=AI-Document-Assistant&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00C8&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/22407756/emotion-detection-app">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=emotion-detection-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=emotion-detection-app&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00C8&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/22407756/PodcastScheduler">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=PodcastScheduler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=PodcastScheduler&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00C8&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -81,13 +85,13 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="divider.svg" width="100%"/>
 
-## 🎯 Roadmap
+## 🎯 `> cat roadmap.txt`
 
 <div align="center">
 
-| 🌱 Learning | 🔨 Building | 🚀 Goal |
+| 🌱 LEARNING | 🔨 BUILDING | 🚀 GOAL |
 |:---:|:---:|:---:|
 | Machine Learning | AI Trading Journal | AI Engineer |
 | Data Analysis | AI Document Assistant | Real-world AI products |
@@ -95,36 +99,36 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="divider.svg" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 `> run stats.sh`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=22407756&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22407756&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=22407756&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00C8&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22407756&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=FFFFFF" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=22407756&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00F5A0&currStreakLabel=00C9FF" />
+<img src="https://streak-stats.demolab.com?user=22407756&hide_border=true&background=0D0221&ring=FF00C8&fire=FCEE0A&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF00C8&sideLabels=FF00C8&dates=FFFFFF" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=22407756&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=22407756&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=22407756&bg_color=0D1117&color=00C9FF&line=6A5ACD&point=00F5A0&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=22407756&bg_color=0D0221&color=00F0FF&line=FF00C8&point=FCEE0A&area=true&area_color=FF00C8&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="divider.svg" width="100%"/>
 
-## 🐍 Contribution Snake & 3D Graph
+## 🐍 `> snake.exe`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/22407756/22407756/output/github-snake-dark.svg" width="100%" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/22407756/22407756/output/github-snake-cyber.svg" width="100%" alt="snake animation"/>
 
 <br><br>
 
@@ -132,20 +136,20 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="divider.svg" width="100%"/>
 
-## 🌐 Connect With Me
+## 🌐 `> connect --all`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sara-oussoussou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:saraoussoussou66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/22407756"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sara-oussoussou"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=00F0FF"/></a>
+<a href="mailto:saraoussoussou66@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00C8&color=FF00C8"/></a>
+<a href="https://github.com/22407756"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FCEE0A&color=FCEE0A"/></a>
 
 <br><br>
 
-### 💜 Thanks for visiting my profile!
+### 💜 `> connection closed. thanks for visiting!`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C9FF,100:6A5ACD&height=140&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7B2FF7,100:00F0FF&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
