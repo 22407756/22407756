@@ -56,19 +56,11 @@
 
 <div align="center">
 
-<a href="https://github.com/22407756/ai-trading-journal-APP">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=ai-trading-journal-APP&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00C8&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/22407756/AI-Document-Assistant">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=AI-Document-Assistant&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00C8&text_color=FFFFFF" />
-</a>
+<a href="https://github.com/22407756/ai-trading-journal-APP"><img src="card-trading-journal.svg" width="48%" alt="AI Trading Journal"/></a>
+<a href="https://github.com/22407756/AI-Document-Assistant"><img src="card-document-assistant.svg" width="48%" alt="AI Document Assistant"/></a>
 
-<a href="https://github.com/22407756/emotion-detection-app">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=emotion-detection-app&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00C8&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/22407756/PodcastScheduler">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=PodcastScheduler&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00C8&text_color=FFFFFF" />
-</a>
+<a href="https://github.com/22407756/emotion-detection-app"><img src="card-emotion-detection.svg" width="48%" alt="Emotion Detection App"/></a>
+<a href="https://github.com/22407756/PodcastScheduler"><img src="card-podcast-scheduler.svg" width="48%" alt="Podcast Scheduler"/></a>
 
 </div>
 
@@ -116,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/22407756/22407756/output/github-snake-cyber.svg" width="100%" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/22407756/22407756/output/github-snake-neon.svg" width="100%" alt="snake animation"/>
 
 <br><br>
 
@@ -131,6 +123,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sara-oussoussou"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:saraoussoussou66@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-FF00C8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/22407756"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
