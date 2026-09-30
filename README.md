@@ -128,7 +128,6 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sara-oussoussou"><img src="contact-linkedin.svg" width="32%" alt="LinkedIn"/></a>
-<a href="mailto:saraoussoussou66@gmail.com"><img src="contact-email.svg" width="32%" alt="Email"/></a>
 <a href="https://github.com/22407756"><img src="contact-github.svg" width="32%" alt="GitHub"/></a>
 
 <br><br>
