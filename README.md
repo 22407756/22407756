@@ -37,7 +37,7 @@
 
 <img src="divider.svg" width="100%"/>
 
-<img src="title-stack.svg" alt="Tech Stack"/>
+<img src="title-tech.svg" alt="Tech Stack"/>
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 <img src="divider.svg" width="100%"/>
 
-<img src="title-tech.svg" alt="Tech Stack"/>
+<img src="title-stats.svg" alt="GitHub Stats"/>
 
 <div align="center">
 
