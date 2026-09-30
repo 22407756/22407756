@@ -112,14 +112,6 @@ status:   ONLINE ⚡
 
 <img src="https://streak-stats.demolab.com?user=22407756&hide_border=true&background=0D0221&ring=FF00C8&fire=FCEE0A&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF00C8&sideLabels=FF00C8&dates=FFFFFF" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=22407756&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=22407756&bg_color=0D0221&color=00F0FF&line=FF00C8&point=FCEE0A&area=true&area_color=FF00C8&hide_border=true" width="100%"/>
-
 </div>
 
 <img src="divider.svg" width="100%"/>
