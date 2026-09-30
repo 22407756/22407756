@@ -6,17 +6,21 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=0D0221&color=00F0FF"/>
-<img src="https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=FF00C8&color=FF00C8"/>
-<img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FCEE0A&color=FCEE0A"/>
-<img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=00F0FF&color=00F0FF"/>
-<img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=FF00C8&color=FF00C8"/>
-<img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=FCEE0A&color=FCEE0A"/>
+<a href="https://www.linkedin.com/in/sara-oussoussou"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:saraoussoussou66@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-FF00C8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/22407756"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00F0FF&color=00F0FF"/>
+<img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=FF00C8&color=FF00C8"/>
+<img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=FCEE0A&color=FCEE0A"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=00F0FF&color=00F0FF"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=FF00C8&color=FF00C8"/>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=22407756&label=PROFILE%20VIEWS&color=FF00C8&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/22407756?style=for-the-badge&logo=github&color=00F0FF&labelColor=0D0221"/>
 
 </div>
 
@@ -134,9 +138,9 @@ status:   ONLINE ⚡
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sara-oussoussou"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=00F0FF"/></a>
-<a href="mailto:saraoussoussou66@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00C8&color=FF00C8"/></a>
-<a href="https://github.com/22407756"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FCEE0A&color=FCEE0A"/></a>
+<a href="https://www.linkedin.com/in/sara-oussoussou"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:saraoussoussou66@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-FF00C8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/22407756"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
 
