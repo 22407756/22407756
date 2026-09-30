@@ -6,17 +6,11 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/sara-oussoussou"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:saraoussoussou66@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-FF00C8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/22407756"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00F0FF&color=00F0FF"/>
-<img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=FF00C8&color=FF00C8"/>
-<img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=FCEE0A&color=FCEE0A"/>
-<img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=00F0FF&color=00F0FF"/>
-<img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=FF00C8&color=FF00C8"/>
+<a href="https://github.com/22407756?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00F0FF&color=00F0FF"/></a>
+<a href="https://github.com/22407756?tab=repositories&language=java"><img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=FF00C8&color=FF00C8"/></a>
+<a href="https://github.com/22407756?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=FCEE0A&color=FCEE0A"/></a>
+<a href="https://github.com/22407756?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=00F0FF&color=00F0FF"/></a>
+<a href="https://github.com/22407756?tab=repositories&language=typescript"><img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=FF00C8&color=FF00C8"/></a>
 
 <br><br>
 
@@ -53,8 +47,13 @@ status:   ONLINE ⚡
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react&theme=dark" /><br><br>
+<a href="https://github.com/22407756?tab=repositories">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react&theme=dark" />
+</a>
+<br><br>
+<a href="https://github.com/22407756?tab=repositories">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask,git,github,vscode&theme=dark" />
+</a>
 
 </div>
 
