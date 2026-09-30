@@ -99,7 +99,7 @@ Java application for scheduling podcast episodes.
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=22407756&bg_color=0D1117&color=00C9FF&line=6A5ACD&point=00F5A0&area=true&hide_border=true" width="100%"/>
-
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 ---
@@ -116,7 +116,6 @@ Java application for scheduling podcast episodes.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C9FF,100:6A5ACD&height=140&section=footer&animation=twinkling" width="100%"/>
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
