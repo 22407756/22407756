@@ -2,7 +2,7 @@
 
 <img src="header.svg" width="100%" alt="Sara Oussoussou - AI Engineering Student"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=%3E+initializing+sara.exe...;%3E+Turning+data+into+intelligence+%F0%9F%A7%A0;%3E+Machine+Learning+%7C+Computer+Vision+%7C+NLP;%3E+Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+TypeScript;%3E+Building+the+future+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=Hello+World%2C+I'm+Sara+%F0%9F%91%8B;Turning+data+into+intelligence+%F0%9F%A7%A0;Machine+Learning+%7C+Computer+Vision+%7C+NLP;Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+TypeScript;Building+the+future+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing animation"/>
 
 <br><br>
 
@@ -12,28 +12,21 @@
 <a href="https://github.com/22407756?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=00F0FF&color=00F0FF"/></a>
 <a href="https://github.com/22407756?tab=repositories&language=typescript"><img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=FF00C8&color=FF00C8"/></a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=22407756&label=PROFILE%20VIEWS&color=FF00C8&style=for-the-badge"/>
-
 </div>
 
 <img src="divider.svg" width="100%"/>
 
-## 🧠 `> whoami`
+## 🧠 About Me
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
 
-```yaml
-name:     Sara Oussoussou
-role:     AI Engineering Student
-focus:    [Machine Learning, Computer Vision, NLP]
-building: [AI Trading Journal, AI Document Assistant]
-learning: [Data Analysis, Algorithms, AI Applications]
-goal:     Build real-world AI products
-contact:  saraoussoussou66@gmail.com
-status:   ONLINE ⚡
-```
+- 👩‍💻 **Name:** Sara Oussoussou
+- 🎓 **Role:** AI Engineering Student
+- 🎯 **Focus:** Machine Learning, Computer Vision, NLP
+- 🔭 **Building:** AI Trading Journal and AI Document Assistant
+- 🌱 **Learning:** Data Analysis, Algorithms, AI Applications
+- 🚀 **Goal:** Build real-world AI products
+- 📫 **Contact:** saraoussoussou66@gmail.com
 
 <br clear="right"/>
 
@@ -43,7 +36,7 @@ status:   ONLINE ⚡
 
 <img src="divider.svg" width="100%"/>
 
-## ⚡ `> load tech_stack`
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -59,7 +52,7 @@ status:   ONLINE ⚡
 
 <img src="divider.svg" width="100%"/>
 
-## 🚀 `> ls featured_projects/`
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -90,7 +83,7 @@ status:   ONLINE ⚡
 
 <img src="divider.svg" width="100%"/>
 
-## 🎯 `> cat roadmap.txt`
+## 🎯 Roadmap
 
 <div align="center">
 
@@ -104,7 +97,7 @@ status:   ONLINE ⚡
 
 <img src="divider.svg" width="100%"/>
 
-## 📊 `> run stats.sh`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -119,7 +112,7 @@ status:   ONLINE ⚡
 
 <img src="divider.svg" width="100%"/>
 
-## 🐍 `> snake.exe`
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -133,7 +126,7 @@ status:   ONLINE ⚡
 
 <img src="divider.svg" width="100%"/>
 
-## 🌐 `> connect --all`
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -143,7 +136,7 @@ status:   ONLINE ⚡
 
 <br><br>
 
-### 💜 `> connection closed. thanks for visiting!`
+### 💜 Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7B2FF7,100:00F0FF&height=140&section=footer&animation=twinkling" width="100%"/>
 
