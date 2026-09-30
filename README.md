@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,50:00C9FF,100:00F5A0&height=260&section=header&text=SARA%20OUSSOUSSOU&fontSize=56&fontColor=ffffff&fontAlignY=38&stroke=ffffff&strokeWidth=2&animation=fadeIn&desc=AI%20Engineering%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Data%20Enthusiast&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,50:00C9FF,100:00F5A0&height=280&section=header&text=SARA%20OUSSOUSSOU&fontSize=58&fontColor=ffffff&fontAlignY=38&stroke=ffffff&strokeWidth=2&animation=fadeIn&desc=AI%20Engineering%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Data%20Enthusiast&descSize=20&descAlignY=60" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=700&height=50&lines=Hello+World%2C+I'm+Sara+%F0%9F%91%8B;Turning+data+into+intelligence+%F0%9F%A7%A0;Machine+Learning+%7C+Computer+Vision+%7C+NLP;Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+TypeScript;Building+ideas+into+code+%F0%9F%9A%80" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=750&height=50&lines=Hello+World%2C+I'm+Sara+%F0%9F%91%8B;Turning+data+into+intelligence+%F0%9F%A7%A0;Machine+Learning+%7C+Computer+Vision+%7C+NLP;Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+TypeScript;Building+ideas+into+code+%F0%9F%9A%80" alt="Typing animation"/>
 
 <br><br>
 
@@ -16,74 +16,86 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=22407756&label=Profile%20Views&color=00C9FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/22407756?style=for-the-badge&logo=github&color=6A5ACD"/>
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
 
 - 🎓 AI Engineering student
 - 🔭 Currently building: **AI Trading Journal** and **AI Document Assistant**
 - 🌱 Learning: Machine Learning, Data Analysis, Algorithms
 - 🎯 Goal: build real-world AI applications
+- ⚡ Fun fact: I turn coffee and curiosity into code ☕
 - 📫 Reach me: saraoussoussou66@gmail.com
 
 <br clear="right"/>
 
----
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react&theme=dark" /><br><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask,git,github,vscode&theme=dark" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 📈 [AI Trading Journal](https://github.com/22407756/ai-trading-journal-APP)
-Mobile app for logging trades with AI-powered insights.
-<br>`TypeScript` `React Native` `AI`
+<a href="https://github.com/22407756/ai-trading-journal-APP">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=ai-trading-journal-APP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0" />
+</a>
+<a href="https://github.com/22407756/AI-Document-Assistant">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=AI-Document-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0" />
+</a>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/22407756/emotion-detection-app">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=emotion-detection-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0" />
+</a>
+<a href="https://github.com/22407756/PodcastScheduler">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=22407756&repo=PodcastScheduler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00F5A0" />
+</a>
 
-### 🤖 [AI Document Assistant](https://github.com/22407756/AI-Document-Assistant)
-Chatbot that answers questions based on your own documents.
-<br>`Python` `NLP` `LLM`
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><b>📂 More projects (click to expand)</b></summary>
+<br>
 
-### 🎭 [Emotion Detection App](https://github.com/22407756/emotion-detection-app)
-Detects human emotions using computer vision.
-<br>`Python` `OpenCV` `Deep Learning`
+- 🎓 [Student Management System](https://github.com/22407756/student-management-system-cpp): console app in C++
+- 🍋 [Little Lemon Project](https://github.com/22407756/littlelemon-project): Python project
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🎙️ [Podcast Scheduler](https://github.com/22407756/PodcastScheduler)
-Java application for scheduling podcast episodes.
-<br>`Java` `JavaFX`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</td>
-</tr>
-</table>
+## 🎯 Roadmap
 
----
+<div align="center">
+
+| 🌱 Learning | 🔨 Building | 🚀 Goal |
+|:---:|:---:|:---:|
+| Machine Learning | AI Trading Journal | AI Engineer |
+| Data Analysis | AI Document Assistant | Real-world AI products |
+| Algorithms | Computer Vision apps | Open-source contributions |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -98,11 +110,29 @@ Java application for scheduling podcast episodes.
 
 <br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=22407756&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=22407756&bg_color=0D1117&color=00C9FF&line=6A5ACD&point=00F5A0&area=true&hide_border=true" width="100%"/>
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake & 3D Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/22407756/22407756/output/github-snake-dark.svg" width="100%" alt="snake animation"/>
+
+<br><br>
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -114,8 +144,8 @@ Java application for scheduling podcast episodes.
 
 <br><br>
 
+### 💜 Thanks for visiting my profile!
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C9FF,100:6A5ACD&height=140&section=footer&animation=twinkling" width="100%"/>
 
-
 </div>
-
