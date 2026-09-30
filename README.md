@@ -94,7 +94,7 @@
 
 <img src="divider.svg" width="100%"/>
 
-<img src="title-stats.svg" alt="GitHub Stats"/>
+<img src="title-tech.svg" alt="Tech Stack"/>
 
 <div align="center">
 
