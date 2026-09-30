@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="84" viewBox="0 0 300 84">
+  <rect x="1" y="1" width="298" height="82" rx="10" fill="#0D0221" stroke="#FF00C8" stroke-width="2"><animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" repeatCount="indefinite"/></rect>
+  <rect x="1" y="1" width="6" height="82" rx="3" fill="#FF00C8"/>
+  <circle cx="282" cy="18" r="4" fill="#FF00C8"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <text x="24" y="34" font-family="'Courier New', monospace" font-weight="bold" font-size="14" fill="#FF00C8" letter-spacing="3">EMAIL</text>
+  <text x="24" y="60" font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">saraoussoussou66@gmail.com</text>
+  <rect x="24" y="68" height="3" fill="#FF00C8"><animate attributeName="width" values="0;252;252;0" keyTimes="0;0.4;0.9;1" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
