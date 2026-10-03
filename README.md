@@ -64,7 +64,7 @@
 <a href="https://github.com/22407756/ai-trading-journal-APP"><img src="card-trading-journal.svg" width="48%" alt="AI Trading Journal"/></a>
 <a href="https://github.com/22407756/AI-Document-Assistant"><img src="card-document-assistant.svg" width="48%" alt="AI Document Assistant"/></a>
 
-<a href="https://github.com/22407756/emotion-detection-app"><img src="card-emotion-detection.svg" width="48%" alt="Emotion Detection App"/></a>
+<a href="https://github.com/22407756/Emotion-detector-app"><img src="card-emotion-detection.svg" width="48%" alt="Emotion Detection App"/></a> 
 <a href="https://github.com/22407756/PodcastScheduler"><img src="card-podcast-scheduler.svg" width="48%" alt="Podcast Scheduler"/></a>
 
 </div>
